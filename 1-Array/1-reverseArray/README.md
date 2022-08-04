@@ -1,2 +1,11 @@
-# Amaan-DSA
-# In DSA Sheet I will be uploading all the questions and Solutions I am solving and write the approach used during solving the problem.
+<h1>Reverse Array</h1>
+
+
+1. run a loop to size of array/2
+
+2. swap first element with last element
+
+3. second with second last and so on.
+
+
+    
