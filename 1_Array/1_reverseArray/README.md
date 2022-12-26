@@ -1,5 +1,4 @@
-<h3>Problem Link</h3>
-<p>https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/</p>
+<h3><a href="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">Problem Link</a></h3>
 
 <h1>Reverse Array</h1>
 
