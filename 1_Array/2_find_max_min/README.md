@@ -1,6 +1,6 @@
-Problem Link = https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
+<a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Problem Link</a>
 
-<h1>Reverse Array</h1>
+<h1>Maximum and minimum of an array using minimum number of comparisons</h1>
 
 
 1. define two variable max and min having opposite values  max = INT_MIN and min = INT_MAX
