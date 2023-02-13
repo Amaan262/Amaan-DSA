@@ -1,5 +1,5 @@
 <h1>34. Find First and Last Position of Element in Sorted Array</h1>
-<h2><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/" >Problem link</a></h2>
+<h2><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/" target="_blank" >Problem link</a></h2>
 
 1. By Binary searching fing the first occurance and the second occurance 
 

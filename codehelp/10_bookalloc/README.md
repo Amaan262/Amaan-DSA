@@ -1,5 +1,5 @@
 <h1>69. Sqrt(x)</h1>
-<h2><a href="https://leetcode.com/problems/sqrtx/description/" target="_blank">Problem link</a></h2>
+<h2><a href="" target="_blank">Problem link</a></h2>
 
 1. using binary search 
 2. check mid * mid == x then return mid;

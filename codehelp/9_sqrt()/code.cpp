@@ -14,7 +14,7 @@ public:
         {
             long long int square = mid * mid;
             if (square == x)
-            {
+            {  
                 return mid;
             }
             if (square > x)

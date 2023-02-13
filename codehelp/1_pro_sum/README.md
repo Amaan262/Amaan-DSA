@@ -1,5 +1,5 @@
 <h1>Subtract the Product and Sum of Digits of an Integer</h1>
-<h2><a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/" >Problem link</a></h2>
+<h2><a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/" target="_blank" >Problem link</a></h2>
 
 1. store sum and product = 0 and = 1 respectively;
 2. run a loop for n>0 

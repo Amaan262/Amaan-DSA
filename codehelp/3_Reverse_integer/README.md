@@ -1,5 +1,5 @@
 <h1>Reverse Integer</h1>
-<h2><a href="https://leetcode.com/problems/reverse-integer/description/" >Problem link</a></h2>
+<h2><a href="https://leetcode.com/problems/reverse-integer/description/" target="_blank" >Problem link</a></h2>
 
 
 1. run a loop till x>0

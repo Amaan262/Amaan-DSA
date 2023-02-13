@@ -1,5 +1,5 @@
 <h1>33. Search in Rotated Sorted Array</h1>
-<h2><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/" >Problem link</a></h2>
+<h2><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/description/" target="_blank" >Problem link</a></h2>
 
 1. by using binary search 
 2. find pivot index
