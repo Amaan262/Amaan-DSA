@@ -7,21 +7,21 @@ public:
     int pivotIndex(vector<int> &nums)
     {
         int lsum = 0;
-        int tsum = 0;
+        int rsum = 0;
         for (int x : nums)
         {
-            tsum += x;
+            rsum += x;
         }
         for (int i = 0; i < nums.size(); i++)
         {
-            if (lsum == tsum - nums[i])
+            if (lsum == rsum - nums[i])
             {
                 return i;
             }
             else
             {
                 lsum += nums[i];
-                tsum -= nums[i];
+                rsum -= nums[i];
             }
         }
         return -1;
